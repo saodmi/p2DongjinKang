@@ -6,7 +6,7 @@
 ### **5 Example of Car Dashboard**
 
 1. Figure (1)
-https://github.com/saodmi/p2DongjinKang/issues/1#issue-860780794
+<img src="https://user-images.githubusercontent.com/55647419/115162848-c7cab080-a0e0-11eb-8e9d-44db81777086.jpg" width="100%">
 
 
 ### **Pros vs. Cons with the Current Designs and Explanation**
