@@ -5,15 +5,15 @@
 
 ### **5 Example of Car Dashboard**
 
-1. Figure (1)
+1. Car Dashboard (1)
 <img src="https://user-images.githubusercontent.com/55647419/115162848-c7cab080-a0e0-11eb-8e9d-44db81777086.jpg" width="100%">
-2. Figure (2)
+2. Car Dashboard  (2)
 <img src="https://user-images.githubusercontent.com/55647419/115163083-1af13300-a0e2-11eb-8f21-762c4fbc9f64.jpg" width="100%">
-3. Figure (3)
+3. Car Dashboard  (3)
 <img src="https://user-images.githubusercontent.com/55647419/115163102-2f353000-a0e2-11eb-85b0-fd00d81dfcb9.jpg" width="100%">
-4. Figure (4)
+4. Car Dashboard  (4)
 <img src="https://user-images.githubusercontent.com/55647419/115163124-4f64ef00-a0e2-11eb-9a5f-d4afcfe7d3f9.jpg" width="100%">
-5. Figure (5)
+5. Car Dashboard  (5)
 <img src="https://user-images.githubusercontent.com/55647419/115163136-61df2880-a0e2-11eb-8d07-6fe4347edb2d.jpg" width="100%">
 
 
