@@ -1,8 +1,6 @@
 # p2DongjinKang
 # Project 2: The car dashboard
 
-## Car Dashboards
-
 ### **5 Example of Car Dashboard**
 
 1. Car Dashboard (1)
