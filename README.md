@@ -34,11 +34,11 @@ To briefly describe these functions below:
 - Emergency light: Lights up when various problems occur with warning lights.
 - Air bag warning light: If the airbag warning light is illuminated for 6 seconds with the start on and continuously illuminated afterwards, it is an abnormal signal for the airbag device.
 - Safety belt warning: If you don't wear your seatbelt after sitting in your seat, the warning light he audible warning will be activated.
-- Brake warning light: When the parking brake is locked, the corresponding warning lamp appears, and if the start is started with the release, the corresponding signal is extinguished after three seconds.
-ABS warning light: A warning lamp associated with a special brake function to prevent the wheels from locking when the vehicle brakes rapidly.
+- Brake warning light: When the parking brake is locked, the corresponding warning light appears, and if the start is started with the release, the corresponding signal is extinguished after three seconds.
+ABS warning light: A warning light associated with a special brake function to prevent the wheels from locking when the vehicle brakes rapidly.
 - Engine warning light: The warning indicator illuminates when the engine electronic control unit that controls the normal operation of the engine or various sensors associated with exhaust gas control have failed.
 - Charging warning light: It is a warning light that most drivers know. Illuminates when the battery is discharged, or the fan belt is broken, and the charging device is malfunctioning.
-- Engine oil warning light: This is a warning lamp that can be seen if the engine oil has not been changed for a long time. It is mainly lit when the hydraulic pressure is lowered due to lack of engine oil.
+- Engine oil warning light: This is a warning light that can be seen if the engine oil has not been changed for a long time. It is mainly lit when the hydraulic pressure is lowered due to lack of engine oil.
 - Low pressure tire warning light: TPMS stands for Tire Pressure Measurement System, which measures tire pressure and temperature data and transmits information to the vehicle's instrument cluster and is illuminated when tire pressure is very low.
 - ESC light: ESC is a body posture control device that controls the ABS function as well as engine torque to help maintain the vehicle's posture in an emergency.
 - Head light: When the light switch is placed up or the light switch is pulled in the driver's direction, the up-light is lit and the corresponding light is illuminated.
@@ -54,7 +54,7 @@ To briefly describe these functions below:
 - AEB warning light: The AEB is an emergency braking system that recognizes vehicles or pedestrians in the event of a forward collision, decelerating and mitigating damage.
 - MDPS warning light: MDPS is an electric power steering, characterized by improved steering by the driving force of the motor mounted on the steering gear, the warning light is illuminated when a problem occurs.
 - Mode light: This means that Eco mode and Sport mode are operating during drive mode. Sometimes the SMART phrase turns on when there is even a smart mode.
-- ISG light: The idle restriction system is also referred to as the ISG and is only present on diesel vehicles. The system is equipped with a function to temporarily stop the engine when it is waiting for a signal or when it is stationary, improving fuel efficiency, suppressing emissions, and illuminating the indicator lamp when it is operating.
+- ISG light: The idle restriction system is also referred to as the ISG and is only present on diesel vehicles. The system is equipped with a function to temporarily stop the engine when it is waiting for a signal or when it is stationary, improving fuel efficiency, suppressing emissions, and illuminating the indicator light when it is operating.
 - Preheating light: The indicator light visible on diesel vehicles, illuminated when started and automatically extinguished when preheating is completed.
 - DBC light: Gradient slow driving indicators are sometimes referred to as DBCs. This feature helps to drive below 10 km/h for safe driving on steep downhill roads.
 
@@ -66,7 +66,7 @@ The driver needs a variety of controls to interact with the vehicle dashboard. B
 
 ## **What are some common mistakes you make with this current design**
 
-There are many mistakes we often make with this latest design. For example, we can see how much fuel we have on the dashboard, but we can't tell exactly how much fuel we have left. Drivers often think they can reach the distance they think they can reach current fuel conditions, but they often don't. In the case of warning lamps, the driver often does not take them seriously when the TPMS warning lamp is displayed. In fact, it can operate for a considerable period of time even after the TPMS warning light is turned on. This makes drivers think little or ignore it. And this causes drivers to get hurt or spend a lot of money repairing their cars.
+There are many mistakes we often make with this latest design. For example, we can see how much fuel we have on the dashboard, but we can't tell exactly how much fuel we have left. Drivers often think they can reach the distance they think they can reach current fuel conditions, but they often don't. In the case of warning light, the driver often does not take them seriously when the TPMS warning light is displayed. In fact, it can operate for a considerable period of time even after the TPMS warning light is turned on. This makes drivers think little or ignore it. And this causes drivers to get hurt or spend a lot of money repairing their cars.
 
 ## **My Car DashBoard Sketch**
 
