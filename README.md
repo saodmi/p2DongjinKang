@@ -61,7 +61,7 @@ To briefly describe these functions below:
 
 ## **List the Controls with the Car Dashboards**
 
-The driver needs a variety of controls to interact with the vehicle dashboard. Basically, there are windshield wiper controls, turn signal lever, steering column, break pedal, accelerator pedal, heating controls, and cruise control. The drivers input the functions the driver needs into the vehicle through the controls, and the problems, requirements, results, and input values that occur in the process are displayed on the dashboard to inform the driver.
+The driver needs a variety of controls to interact with the vehicle dashboard. Basically, there are windshield wiper controls, turn signal lever, steering column, brake pedal, accelerator pedal, heating controls, and cruise control. The drivers input the functions the driver needs into the vehicle through the controls, and the problems, requirements, results, and input values that occur in the process are displayed on the dashboard to inform the driver.
 
 
 ## **What are some common mistakes you make with this current design**
