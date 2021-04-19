@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/55647419/115163136-61df2880-a0e2-11eb-8d07-6fe4347edb2d.jpg" width="100%">
 
 
-## **Pros vs. Cons with the Current Designs and Explanation**
+## **Pros vs. Cons with the Current Designs and Explanation Why it is Good vs. Bad**
 
 Here are five examples of vehicle dashboards: Each dashboard contains a tachometer, speedometer, fuel indicator, lighting signal, ambient temperature and engine temperature that should be fitted to the vehicle by default. Figure (1) shows a mandatory warning indicator on a slightly older vehicle instrument cluster. The advantages of Figure (1) are the very large design of tachometers, speedometers and fuel indicators. Designed to stand out when the driver is looking at the instrument cluster. However, the overall size of the instrument panel is too large to look clean. One head light shows only the up sign, no down mark and does not indicate engine temperature. It is also regrettable that the cumulative distance meter (ODO), which represents the total mileage, is displayed as a small display under the speedometer.
 
