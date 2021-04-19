@@ -72,6 +72,23 @@ There are many mistakes we often make with this latest design. For example, we c
 
 <img src="https://user-images.githubusercontent.com/55647419/115172577-84803a00-a100-11eb-9594-53839ec89fd1.jpg" width="100%">
 
+1. Left Right signal 
+2. Head light
+3. Illumination indicator
+4. Fog light
+5. Engine thermometer 
+6. Engine warning light
+7. Battery warning light
+8. Engine oil warning light
+9. TPMS light
+10. ESC light
+11. Fuel signal
+12. Cruise light
+13. Seat belt light
+14. Tachometer
+15. Speedometer
+16. Outside temperature
+
 The dashboard enhanced the five previously described dashboards to create a new control interface. When viewing information on a dashboard, the driver's eyes should immediately be directed to the most important area, even if not necessarily located in the most visually prominent area on the screen. The tachometer and speedometer are on both sides and above, indicators related to turn signals, and other important warnings and indicators are under the array. The current gear is displayed in the center of the tachometer and the speed in the center of the speedometer is displayed in numbers. It was also easy to distinguish between engine temperatures and fuel conditions as they were shown below each other on the scale as well as on the bar graph. Time and seat belt indicators were placed based on the number 13, and the left cruise indicator and right outside temperature were numerically displayed. Adding such a variety of images and useless decorations makes the display confusing and much more difficult to interpret the meaning of the data. Consistency in display means saves time and energy by allowing the driver to use the same perceptual strategy to interpret the data. In addition to choosing the right way to present information and messages, we sought the design of components that communicate clearly and efficiently without distracting the driver. In addition, the driver's visual concentration and sense are hindered if the color is not emphasized too much or harmonized with the surroundings. Therefore, white with letters and numbers on a black background, green for headlamps, and red for important warning lights. 
 
 
