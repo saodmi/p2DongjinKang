@@ -1,7 +1,7 @@
 # p2DongjinKang
 # Project 2: The car dashboard
 
-## **5 Example of Car Dashboard**
+## **5 Example of Car Dashboards**
 
 1. Car Dashboard (1)
 <img src="https://user-images.githubusercontent.com/55647419/115162848-c7cab080-a0e0-11eb-8e9d-44db81777086.jpg" width="100%">
