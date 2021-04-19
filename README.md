@@ -68,7 +68,7 @@ The driver needs a variety of controls to interact with the vehicle dashboard. B
 
 There are many mistakes we often make with this latest design. For example, we can see how much fuel we have on the dashboard, but we can't tell exactly how much fuel we have left. Drivers often think they can reach the distance they think they can reach current fuel conditions, but they often don't. In the case of warning light, the driver often does not take them seriously when the TPMS warning light is displayed. In fact, it can operate for a considerable period of time even after the TPMS warning light is turned on. This makes drivers think little or ignore it. And this causes drivers to get hurt or spend a lot of money repairing their cars.
 
-## **My Car DashBoard Sketch**
+## **My Low-Fidelity Prototype**
 
 <img src="https://user-images.githubusercontent.com/55647419/115172577-84803a00-a100-11eb-9594-53839ec89fd1.jpg" width="100%">
 
